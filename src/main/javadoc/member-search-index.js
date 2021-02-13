@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"AD.SW04","c":"HashArrayInterface","l":"add(Integer)","url":"add(java.lang.Integer)"},{"p":"AD.SW04","c":"HashArrayInterface","l":"getSize()"},{"p":"AD.SW04","c":"HashArrayInterface","l":"remove(Integer)","url":"remove(java.lang.Integer)"},{"p":"AD.SW04","c":"HashArrayInterface","l":"search(Integer)","url":"search(java.lang.Integer)"}]
