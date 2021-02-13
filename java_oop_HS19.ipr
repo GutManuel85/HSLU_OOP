@@ -197,6 +197,9 @@
       <option name="url" value="https://repohub.enterpriselab.ch/repository/maven-public/" />
     </remote-repository>
   </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
   <component name="libraryTable">
     <library name="Maven: junit:junit:4.13.1">
       <CLASSES>

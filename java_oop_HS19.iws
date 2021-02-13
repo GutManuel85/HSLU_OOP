@@ -121,22 +121,9 @@
       <command value="run DemoProgramm.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.StackProgramm">
+  <component name="RunManager" selected="Application.TestGit">
     <configuration name="StackImplementationVergleich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AD.SW04.StackImplementationVergleich" />
-      <module name="oop_maven_template" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AD.SW04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackImplementationVergleichProgramm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AD.SW04.StackImplementationVergleichProgramm" />
       <module name="oop_maven_template" />
       <extension name="coverage">
         <pattern>
@@ -174,6 +161,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestGit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ISF.TestGit" />
+      <module name="oop_maven_template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ISF.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oop_maven_template" />
       <extension name="coverage">
@@ -191,19 +191,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StackImplementationVergleichProgramm" />
       <item itemvalue="Application.StackImplementationVergleich" />
       <item itemvalue="Application.StackProgramm" />
       <item itemvalue="Application.TemperaturReadFromCSVMain" />
       <item itemvalue="JUnit.CalculatorTest" />
+      <item itemvalue="Application.TestGit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestGit" />
         <item itemvalue="Application.StackProgramm" />
         <item itemvalue="Application.TemperaturReadFromCSVMain" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="Application.StackImplementationVergleich" />
-        <item itemvalue="Application.StackImplementationVergleichProgramm" />
       </list>
     </recent_temporary>
   </component>
